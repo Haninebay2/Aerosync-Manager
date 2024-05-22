@@ -34,3 +34,8 @@ This project entails the development of a comprehensive airport information soft
 The design of the website prioritizes aesthetics and functionality, ensuring that information is both accessible and visually appealing. The interface is designed to be intuitive, allowing travelers to quickly find the information they need while providing a pleasant browsing experience.
 
 This airport information software not only streamlines the process of traveling by providing all necessary services under one digital roof but also ensures that the user experience is secure and efficient through thoughtful backend architecture and innovative security measures.
+
+# Future Goals
+- add admin panel
+- add chat bot
+- fix all errors
